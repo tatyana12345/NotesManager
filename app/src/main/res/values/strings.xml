@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NotesManager</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_notes">Добавить</string>
+    <string name="addNotes">addNotes</string>
+    <string name="title_activity_call">О разработчике</string>
+    <string name="dev">Связаться с разработчиком</string>
+    <string name="title_activity_editor">EditorActivity</string>
+    <string name="title_activity_update_notes">Обновить</string>
+    <string name="title_activity_maps">Map</string>
+   <string name="map">map</string>
+</resources>
